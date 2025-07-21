@@ -18,3 +18,45 @@ All data is entirely **synthetic** and was created for **educational and demonst
 
 ## File Structure
 
+
+
+
+
+## CMS Files Covered
+
+### 🧾 MMR – Medicare Advantage Monthly Membership Report
+
+- Contains monthly enrollment, payment, and plan data.
+- Fixed-width format requiring field-level precision.
+- Used for financial reconciliation and member tracking.
+
+### 📄 MOR – Medicare Advantage Organization Report
+
+- Includes HCC codes, demographic data, and risk scores.
+- Used in Risk Adjustment processing and payment calculations.
+
+## Skills Demonstrated
+
+- Python programming for data generation and ETL
+- Working with **fixed-width file formats**
+- Parsing and transforming data into CSV
+- Simulating **HCC coding**, member demographics, and plan identifiers
+- Preparing data for **analytics, QA, or risk adjustment workflows**
+
+## Disclaimer
+
+> This project is not affiliated with CMS or any healthcare organization. All files are generated for demonstration purposes and contain **no real patient information**.
+
+## Future Work
+
+- Add support for MAO-004 and other Medicare reports
+- Integrate mock HCC coefficients and risk score calculations
+- Visualize trends using Power BI or Tableau
+- Package as a reproducible Databricks workspace or Jupyter notebook
+
+## Contact
+
+Created by **Jason Votaw**  
+📧 votawanalytics@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jasonvotaw) | [GitHub](https://github.com/YOURUSERNAME)
+

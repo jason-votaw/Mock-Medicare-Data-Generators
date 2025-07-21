@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.txt
+*.csv
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Databricks export artifacts
+*.dbc
+
+# IDEs and editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Mac OS
+.DS_Store
+
+# Logs and output
+*.log
